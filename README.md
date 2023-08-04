@@ -1,5 +1,5 @@
 ## Igor Rubio
-Currently working at GFT as an AWS Infrastructure Analyst
+Currently working at GFT - AWS Infrastructure Analyst
 <div align="center">
   <a href="https://github.com/igorsrs2019">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorsrs2019&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
